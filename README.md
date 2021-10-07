@@ -1,5 +1,5 @@
 # dais2021_full_ml_lifecycle
-Demo assets for DAIS 2021 'Learn to use Databricks for the full ML lifecycle' Talk
+Demo assets for DAIS 2021 [Learn to use Databricks for the full ML lifecycle](https://databricks.com/session_na21/learn-to-use-databricks-for-the-full-ml-lifecycle)
 
 
 Data is available for free on the web.  In a Databricks notebook run the following in an empty cell:
